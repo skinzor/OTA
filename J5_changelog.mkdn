@@ -9,11 +9,13 @@
 ###  07.12.2016
 ==================
 
-- ROM and Kernel built with Hyper Toolchain and JustArchi optimizations
+- ROM and Kernel built with Hyper Toolchain 4.9 and JustArchi optimizations
 - The performance / smoothness has been increased
 - Overclock has been removed to reduce the battery drain and phone heat (it is removed from CM too)
-- Fixed the Weather bug. Now you can see it in cLock widget, Notification Panel, Lockscreen and StatusBar (Configurations > StatusBar > Temperature)
-- Fixed the issue with the missing SetupWizard, by adding CyanogenMod SetupWizard.
+- OTA has been set up. Now you can check for updates from Settings > Configurations > Updates
+- Fixed the GPS reboot.
+- Fixed the Weather bug. Now you can see it in cLock widget, Notification Panel, Lockscreen and StatusBar (Settings > Configurations > StatusBar > Temperature)
+- Fixed the issue with the missing SetupWizard, by adding CyanogenMod SetupWizard
 
 #
 
