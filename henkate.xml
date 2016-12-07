@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <j5nltexxe>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5nltexx</Filename>
+        <j5nltexx>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5nltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -23,7 +23,7 @@
     </Stable>
             <Stable>
         <j5ltexx>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltexx</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5ltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -44,7 +44,7 @@
     </Stable>
             <Stable>
         <j5ltedx>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltedx</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5ltedx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -65,7 +65,7 @@
     </Stable>
             <Stable>
         <j5lteub>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5lteub</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5lteub</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -86,7 +86,7 @@
     </Stable>
             <Stable>
         <j53gxx>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j53gxx</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j53gxx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -107,7 +107,7 @@
     </Stable>
             <Stable>
         <j5yltedo>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5yltedo</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5yltedo</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -128,7 +128,7 @@
     </Stable>
             <Stable>
         <j5ltechn>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltechn</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5ltechn</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -149,7 +149,7 @@
     </Stable>
             <Stable>
         <j5ltezt>
-            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltezt</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5ltezt</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
