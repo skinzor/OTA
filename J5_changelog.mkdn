@@ -1,4 +1,7 @@
-# NOTE: ResurrectionRemix Team has abandoned the development for Lollipop.
+# ResurrectionRemix Lollipop for Galaxy J5
+
+
+### NOTE: ResurrectionRemix Team has abandoned the development for Lollipop.
 
 #
 
