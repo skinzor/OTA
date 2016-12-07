@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <j5nltexxe>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5nltexx</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5nltexx>
+    </Stable>
+            <Stable>
+        <j5ltexx>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltexx</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5ltexx>
+    </Stable>
+            <Stable>
+        <j5ltedx>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltedx</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5ltedx>
+    </Stable>
+            <Stable>
+        <j5lteub>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5lteub</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5lteub>
+    </Stable>
+            <Stable>
+        <j53gxx>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j53gxx</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j53gxx>
+    </Stable>
+            <Stable>
+        <j5yltedo>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5yltedo</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5yltedo>
+    </Stable>
+            <Stable>
+        <j5ltechn>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltechn</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5ltechn>
+    </Stable>
+            <Stable>
+        <j5ltezt>
+            <Filename>ResurrectionRemix-LP-v5.5.9-20161130-j5ltezt</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5ltezt>
+    </Stable>
+</SlimOTA>
