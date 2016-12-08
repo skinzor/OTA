@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <j5nltexx>
-            <Filename>Resurrection-Remix-LP-v5.5.9-20161130-j5nltexx</Filename>
+            <Filename>Resurrection-Remix-LP-v5.5.9-20161230-j5nltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.google.ro</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -14,7 +14,7 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+                description="Download latest Open Gapps">http://opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
@@ -35,7 +35,7 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest Open Gapps">opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+                description="Download latest Open Gapps">http://opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
