@@ -9,13 +9,15 @@
 
 
 ==================
-###  07.12.2016
+###  14.12.2016
 ==================
 
-- ROM and Kernel built with Hyper Toolchain 4.9 and JustArchi optimizations
-- The performance / smoothness has been increased
+- ROM built with UBERTC 4.9
+- ROM and Kernel built with -O3, graphite flags and some others (JustArchi optimizations). You can find more about these flags with a google search.
+- The performance / smoothness SHOULD BE increased because the flags used. NEED REVIEWS / REPLIES!
+- Possibly battery improvements because the ROM is built with UBERTC 4.9. NEED REVIEWS / REPLIES!
 - Overclock has been removed to reduce the battery drain and phone heat (it is removed from CM too)
-- OTA has been set up. Now you can check for updates from Settings > Configurations > Updates
+- Added and configured SlimOTA. Now you can check for updates from Settings > Configurations > Updates
 - Fixed the GPS reboot.
 - Fixed the Weather bug. Now you can see it in cLock widget, Notification Panel, Lockscreen and StatusBar (Settings > Configurations > StatusBar > Temperature)
 - Fixed the issue with the missing SetupWizard, by adding CyanogenMod SetupWizard
