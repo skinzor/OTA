@@ -21,6 +21,8 @@
 - Fixed the GPS reboot.
 - Fixed the Weather bug. Now you can see it in cLock widget, Notification Panel, Lockscreen and StatusBar (Settings > Configurations > StatusBar > Temperature)
 - Fixed the issue with the missing SetupWizard, by adding CyanogenMod SetupWizard
+- Removed Backlight option from Settings since our phone doesnt have this
+- Removed three finger gesture option from Settings since our phone doesnt support multitouch yet
 
 #
 
