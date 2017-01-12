@@ -1,80 +1,15 @@
-# ResurrectionRemix Lollipop for Galaxy J5
+![](http://i.imgur.com/4rqDyz6.png)
 
 
-### NOTE: ResurrectionRemix Team has abandoned the development for Lollipop.
 
-#
-
-# Galaxy J5 Changelog
+# Changelog
 
 
 ==================
-###  15.12.2016
-==================
-
-- ROM built with UBERTC 4.9
-- ROM and Kernel built with -O3, graphite flags and some others (JustArchi optimizations). You can find more about these flags with a google search.
-- The performance / smoothness SHOULD BE increased because the flags used. NEED REVIEWS / REPLIES!
-- Possibly battery improvements because the ROM is built with UBERTC 4.9. NEED REVIEWS / REPLIES!
-- Overclock has been removed to reduce the battery drain and phone heat (it is removed from CM too)
-- Added and configured SlimOTA. Now you can check for updates from Settings > Configurations > Updates
-- Fixed the GPS reboot.
-- Fixed the Weather bug. Now you can see it in cLock widget, Notification Panel, Lockscreen and StatusBar (Settings > Configurations > StatusBar > Temperature)
-- Fixed the issue with the missing SetupWizard, by adding CyanogenMod SetupWizard
-- Removed Backlight option from Settings since our phone doesnt have this
-- Removed three finger gesture option from Settings since our phone doesnt support multitouch yet
-
-#
-
-==================
-###  01.12.2016
+### ----
 ==================
 
 - Initial build
-
-
-#
-#
-#
-
- 
- 
-# Resurrection Remix- v5.5.9  Lollipop-5.1.1_r26
-
-- Android 5.1.1_r24->5.1.1_r26
-- Kernel Auditor Tile
-- Add Option For 5 Tiles Per Row in QS
-- *Include GCC version and Info (for Optimized Builds Only, See Note Below (for maintainers only)) *
-- base: don't show reboot options for safe mode 
-- perf: Add support for additional power profiles 
-- SystemUI: update keyguard state when profiles disable keyguard 
-- FingerprintService: fix fingerprints disappearing 
-- Keyguard: fix fingerprint not starting after user switch 
-- SettingsProvider: load animation defaults into correct table 
-- Keyguard: Show backdrop when sim pin secure screen shown
-- SystemUI: HeadsUp: Check if view isn't already in windowManager
-- Fix crash if Exif-Tag buffer-length and component-count are both 0 
-- Update boosted audio files
-- Fix NOT_RESTRICTED network capability and enforce it
-- Don't mark NetworkRequests restricted when they don't have restricted caps
-- base: get rid of android time class
-- Listen phone state change 
-- Shell: Declare cyanogenmod WRITE for system and secure settings.
-- Recents: Fix IndexOutOfBoundsException
-- Settings: Add security level default string …
-- Remove CM translations of security_patch …
-- wifi Settings: Add a filter 
-- Settings : Update performance tile drawable reference
-- HighTouchSensitivity : Add Settings preference 
-- settings: ensure we don't call isProtectedApp with an invalid reference … 
-- Settings: Made advanced reboot option avaliable from button settings. 
-- vendor: Remove instance of server="" 
-- Vendor: add opt-out for exFAT
-- vendor: make cgroups files read-only for all users
-- Merged All StageFright Patches
-- Included All latest CM updates
-- Improved Translations
-- For Full Acitivity Track Github
 
 
 ####################################################################
