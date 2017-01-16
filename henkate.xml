@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	    <Stable>
         <j5>
-            <Filename>Tensei-Kernel-LP-v1.0-20170116-j5</Filename>
+            <Filename>TenseiKernel-LP-v1.0-20170116-j5</Filename>
             <RomUrl
                 id="rom"
                 title="Kernel"
