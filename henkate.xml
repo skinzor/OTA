@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+	    <Stable>
+        <j5>
+            <Filename>Tensei-Kernel-LP-v1.0-20170115-j5</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build">https://www.mediafire.com/?s4i1ouh1x6qdnri</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">http://opengapps.org/?download=true&amp;arch=arm&amp;api=5.1&amp;variant=pico</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
+	</j5>
+    </Stable>
     <Stable>
         <j5nltexx>
             <Filename>Resurrection-Remix-LP-v5.5.9-20161215-j5nltexx</Filename>
