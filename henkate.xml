@@ -5,15 +5,15 @@
             <Filename>TenseiKernel-LP-v1.0-20170116-j5</Filename>
             <RomUrl
                 id="rom"
-                title="Kernel"
+                title="AresKernel"
                 description="Download latest Tensei build">https://www.mediafire.com/?s4i1ouh1x6qdnri</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title="Changelog"
+                title="MANELE xD"
                 description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
             <XDAUrl
                 id="xda"
-                title="XDA"
+                title="SARMALE xD"
                 description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
 	</j5>
     </Stable>
