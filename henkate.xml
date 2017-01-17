@@ -13,7 +13,7 @@
                 description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
             <XDAUrl
                 id="xda"
-                title="XDA thread"
+                title="XDA"
                 description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
 	</j5>
     </Stable>
