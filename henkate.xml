@@ -7,14 +7,14 @@
                 id="rom"
                 title="ANDROIDFILEHOST"
                 description="Download latest Tensei build - AFH">https://www.androidfilehost.com/?fid=673368273298926151</RomUrl>
-		<GappsUrl
+	    <GappsUrl
                 id="gapps"
                 title="MEDIAFIRE"
                 description="Download latest Tensei build - MEDIAFIRE">http://www.mediafire.com/file/g65924ep1kd6e6l/TenseiKernel-MM-v1.0-20170124.zip</GappsUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View changelog">https://github.com/skinzor/OTA/blob/master/J5_changelog.mkdn</ChangelogUrl>
+                description="View changelog">https://github.com/skinzor/OTA/blob/tensei-5.1.1/J5_changelog.mkdn</ChangelogUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
