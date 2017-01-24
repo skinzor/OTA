@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title="ANDROIDFILEHOST"
-                description="Download latest Tensei build - AFH">https://www.androidfilehost.com/?fid=745425885120702807</RomUrl>
-		<RomUrl
-                id="rom"
+                description="Download latest Tensei build - AFH">https://www.androidfilehost.com/?fid=673368273298926151</RomUrl>
+		<GappsUrl
+                id="gapps"
                 title="MEDIAFIRE"
-                description="Download latest Tensei build - MEDIAFIRE">http://www.mediafire.com/file/8ueo9bb825mrgeb/TenseiKernel-MM-v1.0-20170124.zip</RomUrl>
+                description="Download latest Tensei build - MEDIAFIRE">http://www.mediafire.com/file/g65924ep1kd6e6l/TenseiKernel-MM-v1.0-20170124.zip</GappsUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
