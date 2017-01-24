@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	    <Stable>
-        <j5>
-            <Filename>TenseiKernel-LP-v1.0-20170116-j5</Filename>
+        <j5_MM>
+            <Filename>TenseiKernel-MM-v1.0-20170116-j5_MM</Filename>
             <RomUrl
                 id="rom"
-                title="Kernel"
-                description="Download latest Tensei build">https://www.mediafire.com/?s4i1ouh1x6qdnri</RomUrl>
+                title="ANDROIDFILEHOST"
+                description="Download latest Tensei build - AFH">https://www.androidfilehost.com/?fid=745425885120702807</RomUrl>
+		<RomUrl
+                id="rom"
+                title="MEDIAFIRE"
+                description="Download latest Tensei build - MEDIAFIRE">http://www.mediafire.com/file/8ueo9bb825mrgeb/TenseiKernel-MM-v1.0-20170124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -14,8 +18,8 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit XDA thread">http://forum.xda-developers.com/galaxy-j5/development/rom-resurrection-remix-v5-5-9-t3510680</XDAUrl>
-	</j5>
+                description="Visit XDA thread">https://forum.xda-developers.com/galaxy-j5/development/kernel-tenseikernel-v1-0-24-01-2017-t3544239</XDAUrl>
+	</j5_MM>
     </Stable>
     <Stable>
         <j5nltexx>
